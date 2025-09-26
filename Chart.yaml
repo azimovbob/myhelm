@@ -1,0 +1,4 @@
+apiVersion: v2
+description: A Helm chart for Block Buster App
+name: block-buster-helm-app
+version: 7.6.0
